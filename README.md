@@ -1,14 +1,3 @@
-Here is a professional and ready-to-use `README.md` file for your project. It summarizes the features, tech stack, and setup instructions based on the code you’ve written.
-
-You can create this file directly in Xcode:
-
-1.  **File** \> **New** \> **File...**
-2.  Scroll down to the **Other** section and select **Markdown File**.
-3.  Name it `README.md`.
-4.  Paste the content below into it.
-
------
-
 # ChoreLock
 
 **ChoreLock** is a macOS application designed to help parents manage screen time and enforce chore completion. The app "locks" the computer screen during specific hours, requiring the user (child) to complete a checklist of daily tasks before the device unlocks for recreational use.
